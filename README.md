@@ -1,0 +1,1 @@
+日本地図のSVGはhttps://geolonia.github.io/japanese-prefectures/から取得
